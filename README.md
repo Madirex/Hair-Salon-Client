@@ -9,7 +9,7 @@ Aplicación cliente-servidor que permite realizar la gestión de usuarios, servi
 
 ## 🧑‍💻 Servidor
 El servidor necesario para hacer funcionar este TPV:
-https://github.com/Madirex/HairSalonServer/
+https://github.com/Madirex/Hair-Salon-Server/
 
 ## ⚙️ Mejoras que se pueden realizar
 Este es un proyecto de prueba que se hizo de forma rápida.
